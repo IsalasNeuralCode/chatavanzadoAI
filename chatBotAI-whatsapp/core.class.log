@@ -1,0 +1,1244 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09633DEDEFCA4D8F3A4',
+    participant: undefined
+  },
+  messageTimestamp: 1732557226,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Black Nexus',
+  body: 'Chatbot',
+  from: '56983884137'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '352480651570E7C1C06CCB47EA304D5F',
+    participant: undefined
+  },
+  messageTimestamp: 1732557232,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56973093546'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: 'AEA7297357B7E4B520237D4E0416EAE7',
+    participant: undefined
+  },
+  messageTimestamp: 1732557245,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '17.301.151-2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '17.301.151-2',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '2F1B03E0685309693B5F0C7E826CCBA7',
+    participant: undefined
+  },
+  messageTimestamp: 1732557265,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '35497A447841AE8167C223FE395CF70D',
+    participant: undefined
+  },
+  messageTimestamp: 1732557275,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: 'D3242D55F85C648C8F59F3BF708F1F98',
+    participant: undefined
+  },
+  messageTimestamp: 1732557282,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '15',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '15',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '60FBFDAABA33B04CCA79ED1E87EA5E19',
+    participant: undefined
+  },
+  messageTimestamp: 1732557290,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '968608930D8E8696A7372C6CABF07641',
+    participant: undefined
+  },
+  messageTimestamp: 1732557297,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '4D461BC126EB5CFC39E7F3856DC8B6E8',
+    participant: undefined
+  },
+  messageTimestamp: 1732557428,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56973093546'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '693ED817AB0238C277A89055AB2E4D89',
+    participant: undefined
+  },
+  messageTimestamp: 1732557473,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56973093546'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '02781E8995B69CCC56C0A0FA4955822A',
+    participant: undefined
+  },
+  messageTimestamp: 1732557481,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '17.301.151-2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '17.301.151-2',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '569D2D9354929146B314AB155CA4FEA6',
+    participant: undefined
+  },
+  messageTimestamp: 1732557489,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '2F210B09F85ED222B46F3E2BB8EDB6DD',
+    participant: undefined
+  },
+  messageTimestamp: 1732557515,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola tienes disponibilidad para hoy en las condes?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola tienes disponibilidad para hoy en las condes?',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '765A99E9CA2D82BB78732E5FC611AA42',
+    participant: undefined
+  },
+  messageTimestamp: 1732557526,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuantas tienes?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuantas tienes?',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '864B87DEE9540C20801E3A77B8D6EDCF',
+    participant: undefined
+  },
+  messageTimestamp: 1732557538,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: '50 kg no hay?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '50 kg no hay?',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0B476A6CAF2556BAA19384C589217AD',
+    participant: undefined
+  },
+  messageTimestamp: 1732557549,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Salir',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '81A3BAC5D5ADE2BE6D104FF7B74E10A1',
+    participant: undefined
+  },
+  messageTimestamp: 1732560216,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1FA84B87FA70191E712C7A52600782E',
+    participant: undefined
+  },
+  messageTimestamp: 1732560257,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '1F4F17DFC56966DC3D8215FC414BF4D6',
+    participant: undefined
+  },
+  messageTimestamp: 1732560271,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me das opciones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Me das opciones',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'BEB9512EF16FCBD1E534F7FED946275E',
+    participant: undefined
+  },
+  messageTimestamp: 1732560282,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56961493990'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '41441CF68F97C357054E743606C853B3',
+    participant: undefined
+  },
+  messageTimestamp: 1732560300,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '11252797-4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '11252797-4',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '68954D8716E90443AE1FEBBD8B624134',
+    participant: undefined
+  },
+  messageTimestamp: 1732560314,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '11.252.797-4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '11.252.797-4',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '8A1950DC400F88AA49BBB652CE952025',
+    participant: undefined
+  },
+  messageTimestamp: 1732560320,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Juan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Juan',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '0D82CB6C7ACD0D1FCF6C3FD9A654FC9C',
+    participant: undefined
+  },
+  messageTimestamp: 1732560329,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3D792731B9506B487FAF158E9DCFAF7',
+    participant: undefined
+  },
+  messageTimestamp: 1732560339,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '4540B3ECA2B032AEBAD5DB5BC8C95583',
+    participant: undefined
+  },
+  messageTimestamp: 1732560350,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '15A7335F16B72077633730747B7261D9',
+    participant: undefined
+  },
+  messageTimestamp: 1732560372,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    locationMessage: LocationMessage {
+      degreesLatitude: -33.4851785,
+      degreesLongitude: -70.7735422,
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_location__d00d5eb9-614d-41f7-bd24-6ca4446a7593',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF124D97E91280C1FB8D26552467CB5A',
+    participant: undefined
+  },
+  messageTimestamp: 1732560390,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Los tulipanes 312 maipu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Los tulipanes 312 maipu',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '549E9C1999E5A95649AA6BF677215727',
+    participant: undefined
+  },
+  messageTimestamp: 1732560401,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'DA9F8EFBE18B9C0CFCDE76FE05529966',
+    participant: undefined
+  },
+  messageTimestamp: 1732560415,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '1C384EE825D56727E056616536C52A0B',
+    participant: undefined
+  },
+  messageTimestamp: 1732560435,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que tipo de cilindros tienen',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Que tipo de cilindros tienen',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '618E3DE62531405B2C89D4F9F9CC1426',
+    participant: undefined
+  },
+  messageTimestamp: 1732560452,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Son catalíticos o no?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Son catalíticos o no?',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: 'E7601F4F45053829F12B32E880174138',
+    participant: undefined
+  },
+  messageTimestamp: 1732560574,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Están repartiendo hoy?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Están repartiendo hoy?',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '643D2D8EB11573F5FF9C809FE7A85365',
+    participant: undefined
+  },
+  messageTimestamp: 1732560606,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero hacerlo el viernes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quiero hacerlo el viernes',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '7EAD964D0A2061022DDB5B7D9B63B944',
+    participant: undefined
+  },
+  messageTimestamp: 1732561257,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gracias',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '30AA4CCB8E51745EB0A040EBAAC57B0E',
+    participant: undefined
+  },
+  messageTimestamp: 1732586216,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas noches',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas noches',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56961493990@s.whatsapp.net',
+    fromMe: false,
+    id: '749135383A5791D1FB5876C46DCC54CD',
+    participant: undefined
+  },
+  messageTimestamp: 1732586241,
+  pushName: 'Roberto Vera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cualnes el horario',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cualnes el horario',
+  from: '56961493990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8D578ED335A1A915CF248B1CA63FD6C',
+    participant: undefined
+  },
+  messageTimestamp: 1733248203,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Demo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Demo',
+  from: '56973093546'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56973093546@s.whatsapp.net',
+    fromMe: false,
+    id: '680B86C17AF8EEA177446B065C1103E2',
+    participant: undefined
+  },
+  messageTimestamp: 1733248218,
+  pushName: 'Julio Cruces',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56973093546'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06D0737E35139DFC9DB',
+    participant: undefined
+  },
+  messageTimestamp: 1733339729,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chatbot',
+  from: '56983884137'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_23092a46-d73f-40cc-bdb9-de7a05460fa1',
+  keyword: 'key_c573499b-1a57-4939-aba4-d20e1b5c25a2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92e3791f02584b69b90047a33aa8ea06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04F5F3E69C74AD336A6',
+    participant: undefined
+  },
+  messageTimestamp: 1733339741,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '207049097',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '207049097',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B74B9E5A3E366322DC',
+    participant: undefined
+  },
+  messageTimestamp: 1733339754,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '20.704.909-7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '20.704.909-7',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04CE264893D21AC89DC',
+    participant: undefined
+  },
+  messageTimestamp: 1733339762,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ignacio Salas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ignacio Salas',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00AA5B56521637B4279',
+    participant: undefined
+  },
+  messageTimestamp: 1733339768,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BCD67EC71E2931BFAE',
+    participant: undefined
+  },
+  messageTimestamp: 1733339787,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D580E13B985536C12C',
+    participant: undefined
+  },
+  messageTimestamp: 1733339796,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Las condes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Las condes',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09F09844B3ED09B4799',
+    participant: undefined
+  },
+  messageTimestamp: 1733339803,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Las Condes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Las Condes',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB077E52F4214B47F97FB',
+    participant: undefined
+  },
+  messageTimestamp: 1733339826,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'HOLANDA 5698, Las Condes, Regio METROPOLITANA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'HOLANDA 5698, Las Condes, Regio METROPOLITANA',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03054062393A074A089',
+    participant: undefined
+  },
+  messageTimestamp: 1733339834,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08DD528300B0A573813',
+    participant: undefined
+  },
+  messageTimestamp: 1733339868,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EEC591BBEC9A4BC757',
+    participant: undefined
+  },
+  messageTimestamp: 1733339888,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuales son los horarios de atención??',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuales son los horarios de atención??',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095F09088A8F4EE608C',
+    participant: undefined
+  },
+  messageTimestamp: 1733339918,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tiene disponibilidad de gas de 45 kg para la comuna de Las Condes??',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Tiene disponibilidad de gas de 45 kg para la comuna de Las Condes??',
+  from: '56983884137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56983884137@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06F93337AEEE5C4FCDF',
+    participant: undefined
+  },
+  messageTimestamp: 1733339949,
+  pushName: 'Black Nexus',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuanto tiempo de demora?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuanto tiempo de demora?',
+  from: '56983884137'
+}
